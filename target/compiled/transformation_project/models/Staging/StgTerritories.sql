@@ -1,0 +1,1 @@
+slelect * from Territories

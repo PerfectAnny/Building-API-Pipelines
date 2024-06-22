@@ -1,0 +1,1 @@
+select * from "NorthWind"."Staging"."Order_detail"
